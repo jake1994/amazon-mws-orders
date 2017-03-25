@@ -1,11 +1,11 @@
 {
-  "name": "serzh/amazon-mws-orders",
+  "name": "jake1994/amazon-mws-orders",
   "description": "Amazon Marketplace Web Service Orders PHP Client Library",
   "type": "library",
   "authors": [
     {
-      "name": "Sergey Evtushenko",
-      "email": "s.evtyshenko@gmail.com"
+      "name": "Jannis Baule",
+      "email": ""
     }
   ],
   "require": {
